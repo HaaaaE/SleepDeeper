@@ -15,7 +15,6 @@ This helps conserve energy and ensures privacy during idle periods.
   提供简单的安装过程，支持使用 Homebrew 的用户以及不使用 Homebrew 的用户。
 - Easy uninstallation. / 简单的卸载过程。
 
----
 
 ## Installation / 安装
 
@@ -46,7 +45,6 @@ Homebrew 简化了 macOS 上的包管理，使安装过程更安全、更可靠�
    Follow the prompts to complete the installation.  
    按照提示完成安装。
 
----
 
 ### Option 2: Install Without Homebrew (Faster Setup) / 选项 2：不使用 Homebrew 安装（更快的设置）
 If you prefer not to use Homebrew, you can install the script directly.  
@@ -67,7 +65,6 @@ If you prefer not to use Homebrew, you can install the script directly.
    Follow the prompts to complete the installation.  
    按照提示完成安装。
 
----
 
 ## Uninstallation / 卸载
 To remove the script and revert any changes made during installation:  
@@ -87,13 +84,11 @@ To remove the script and revert any changes made during installation:
    Follow the prompts to complete the uninstallation.  
    按照提示完成卸载。
 
----
 
 ## License / 许可证
 This project is licensed under the GPL License. See the [LICENSE](LICENSE) file for details.  
 本项目基于 GPL 许可证发布。详情请参阅 [LICENSE](LICENSE) 文件。
 
----
 
 ## Copyright Notice / 版权声明
 This project is based on [SleepWithoutBluetoothAndWifi](https://github.com/dreamncn/SleepWithoutBluetoothAndWifi), which is licensed under the GNU General Public License v3.0.  
