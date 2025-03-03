@@ -5,7 +5,6 @@ A macOS utility script that automatically disables **Bluetooth** and **Wi-Fi** w
 This helps conserve energy and ensures privacy during idle periods.  
 这有助于节省能源，并在空闲期间确保隐私。
 
----
 
 ## Features / 功能
 - Automatically turns off **Bluetooth** and **Wi-Fi** when the system enters sleep mode.  
