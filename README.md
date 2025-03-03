@@ -1,6 +1,6 @@
 # SleepDeeper
 
-A macOS utility script that automatically disables Bluetooth and Wi-Fi when your system goes to sleep and re-enables them upon waking up. This helps conserve energy and ensures privacy during idle periods.
+A macOS utility script that automatically disables **Bluetooth** and **Wi-Fi** when your system goes to sleep and re-enables them upon waking up. This helps conserve energy and ensures privacy during idle periods.
 
 ## Features
 - Automatically turns off **Bluetooth** and **Wi-Fi** when the system enters sleep mode.
