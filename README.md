@@ -62,10 +62,7 @@ To remove the script and revert any changes made during installation:
 
 ## License
 This project is licensed under the GPL License. See the [LICENSE](LICENSE) file for details.
+
 ## Copyright Notice
 
-This project is based on [Original Project](https://example.com), which is licensed under the GNU General Public License v3.0.
-
-Modifications made by HaE in 2023:
-- Added feature X
-- Fixed bug Y
+This project is based on [SleepWithoutBluetoothAndWifi](https://github.com/dreamncn/SleepWithoutBluetoothAndWifi), which is licensed under the GNU General Public License v3.0.
