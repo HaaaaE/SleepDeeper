@@ -53,7 +53,7 @@ If you prefer not to use Homebrew, you can install the script directly.
 1. **Clone this repository**:  
    克隆此仓库：
    ```bash
-   git clone https://github.com/dreamncn/SleepDeeper.git
+   git clone https://github.com/HaaaaE/SleepDeeper.git
    cd SleepDeeper
    ```
 
